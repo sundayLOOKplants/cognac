@@ -20,6 +20,9 @@ export function getModString(): string {
         case $familiar`Disembodied Hand`:
           w = "0.00";
           break;
+        case $familiar`Stooper`:
+          w = "0.00";
+          break;
         }
     return w;
   }
